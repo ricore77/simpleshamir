@@ -1,1 +1,1 @@
-# simple shamir secrect share in Solidity
+# simple shamir secret share in Solidity
